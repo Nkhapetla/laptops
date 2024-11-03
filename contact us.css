@@ -1,0 +1,46 @@
+body{
+	background-color: skyblue;
+	
+}
+h1{
+	text-align: center;
+	font-size: 34px;
+	color: darkred;
+}
+a:link,a:visited,a:active{
+	color: black;
+	font-size: 24px;
+	text-decoration: none;
+	text-align: center;
+}
+
+a:hover{
+	color:ghostwhite;
+	font-size: 24px;
+	text-decoration: none;
+	text-align: center;
+}
+input[type=text] {
+  width: 50%;
+  height: 50%;
+  box-sizing: border-box;
+}
+input[type=email] {
+	width: 50%;
+	height: 50%;
+	box-sizing: border-box;
+}
+input[type=message] {
+	width: 50%;
+	height: 50%;
+	box-sizing: border-box;
+}
+button:hover {
+	color: hotpink;
+}
+footer{
+	color: ghostwhite;
+}
+
+
+

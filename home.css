@@ -1,0 +1,35 @@
+body{
+	background-image: url("travel.jpg");
+}
+h1{
+	font-size: 34px;
+	font-style: italic;
+	color: orangered;
+	margin-left: 30px;
+}
+p{
+	font-size: 30px;
+	color: floralwhite;
+}
+a:link,a:visited,a:active{
+	color: black;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+a:hover{
+	color:ghostwhite;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+
+}
+
+
+

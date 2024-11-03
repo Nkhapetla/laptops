@@ -1,0 +1,49 @@
+body{
+	background-color: grey;
+}
+
+h1{
+	font-size: 30px;
+	color: orangered;
+	text-align: center;
+	font-style: inherit;
+}
+a:link, a:visited, a:active{
+		text-decoration: none;
+		font-size: 24px;
+		color: blue;
+		text-align: center;
+}
+a:hover{
+		text-decoration: none;
+		text-align: center;
+		color: hotpink;
+}
+h2{
+	font-size: 24px;
+	color: black;
+	text-align: center;
+	font-style: italic;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+p{
+	font-size: 24px;
+	text-align: center;
+	font-style: revert-layer;
+}
+a{
+	text-align: center;
+	font-size: 30px;
+}
+video{
+	width: 50%;
+}
+footer{
+	color: ghostwhite;
+}
+	
